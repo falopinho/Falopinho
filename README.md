@@ -8,7 +8,8 @@
 <div align="center">
   <a href="https://github.com/Falopinho">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Falopinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Falopinho)]
+  ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Falopinho)
+
 </div>
 
 <div style="display: inline_block" align="center"><br>
