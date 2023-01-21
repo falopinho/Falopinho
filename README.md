@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://github.com/Falopinho">
-  
+  <img align="username=Falopinho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
