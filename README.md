@@ -2,7 +2,6 @@
 
 - 🌎 I'm starting to make my career. (Eu estou começando a fazer minha carreira.)
 - 🌱 I’m currently learning/improving: Python, JavaScript, HTML and CSS. (Atualmente, Eu estou aprendendo/aperfeiçoando: Python, JavaScript, HTML e CSS.)
-- 😁 Pronouns: he/him (Ele/dele)
 - 💼 If you've read this far, let's work together! (Se você leu até aqui, vamos trabalhar juntos!)
 
 <div align="center">
