@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Fabinho (Olá, Eu sou o Fabinho)👋</h1>
 
-
+<br>
 - 🌎 I'm starting to make my career. (Eu estou começando a fazer minha carreira.)
 - 🌱 I’m currently learning/improving: C, Python, JavaScript, HTML and CSS. (Atualmente, Eu estou aprendendo/aperfeiçoando: Python, JavaScript, HTML e CSS.)
 - 💼 If you've read this far, let's work together! (Se você leu até aqui, vamos trabalhar juntos!)
-
+<br>
 
 <h2 align="center">Social Media (Redes Sociais)🌐</h2>
 
