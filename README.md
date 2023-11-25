@@ -5,8 +5,8 @@
 - 💼 If you've read this far, let's work together! (Se você leu até aqui, vamos trabalhar juntos!)
 
 <h2 align="center">Social Media (Redes Sociais)🌐</h2>
-[![GitHub]()]
-[![LinkedIn]()]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
 
 <h3 align="center">Technologies</h3>
 <div style="display: inline_block" align="center"><br>
