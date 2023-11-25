@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Fabinho (Olá, Eu sou o Fabinho)👋</h1>
+<h1>Hi there, I'm Fabinho (Olá, Eu sou o Fabinho)👋</h1>
 
 <br>
 - 🌎 I'm starting to make my career. (Eu estou começando a fazer minha carreira.)
@@ -6,7 +6,7 @@
 - 💼 If you've read this far, let's work together! (Se você leu até aqui, vamos trabalhar juntos!)
 <br>
 
-<h2 align="center">Social Media (Redes Sociais)🌐</h2>
+<h2>Social Media (Redes Sociais)🌐</h2>
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/falopinho)
