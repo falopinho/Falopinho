@@ -4,11 +4,11 @@
 - 🌱 I’m currently learning/improving: C, Python, JavaScript, HTML and CSS. (Atualmente, Eu estou aprendendo/aperfeiçoando: Python, JavaScript, HTML e CSS.)
 - 💼 If you've read this far, let's work together! (Se você leu até aqui, vamos trabalhar juntos!)
 
-<div align="center">
-  <a href="https://github.com/Falopinho">
-  
-</div>
+<h2 align="center">Social Media (Redes Sociais)🌐</h2>
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guirn13/)](https://github.com/falopinho)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falopinho/)
 
+<h3 align="center">Technologies</h3>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Falops-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Falops-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
