@@ -23,7 +23,7 @@
 
 <br>
 
-<h4 align="center">Technologies. 👨‍💻</h4>
+<h3 align="center">Technologies. 👨‍💻</h3>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Falops-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Falops-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
