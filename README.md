@@ -6,7 +6,7 @@
 
 <h2 align="center">Social Media (Redes Sociais)🌐</h2>
 [![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/falopinho/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falopinho/)
+
 
 <h3 align="center">Technologies</h3>
 <div style="display: inline_block" align="center"><br>
