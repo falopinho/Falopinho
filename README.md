@@ -12,6 +12,8 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/falopinho)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falopinho/)
 
+<br>
+
 <h3>Statistics. 📊</h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falopinho&layout=compact)
