@@ -16,7 +16,7 @@
 
 <br>
 
-<h3>Statistics. 📊</h3>
+<h2>Statistics. 📊</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falopinho&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falopinho&show_icons=true&theme=white)
