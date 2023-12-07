@@ -3,7 +3,7 @@
 <br>
 
 - 🌎 I'm starting to make my career. (Eu estou começando a fazer minha carreira.)
-- 🌱 I’m currently learning/improving: C, PHP, Python, mySQL JavaScript, HTML and CSS. (Atualmente, Eu estou aprendendo/aperfeiçoando: Python, JavaScript, HTML e CSS.)
+- 🌱 I’m currently learning/improving: C, PHP, Python, mySQL, JavaScript, HTML and CSS. (Atualmente, Eu estou aprendendo/aperfeiçoando: Python, JavaScript, HTML e CSS.)
 - 💼 If you've read this far, let's work together! (Se você leu até aqui, vamos trabalhar juntos!)
   
 <br>
