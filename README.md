@@ -1,3 +1,5 @@
+![77caa32884d735d439ade45ba37feaf2](https://github.com/falopinho/Falopinho/assets/116457022/ebe60e91-b080-47dd-9336-8b2034c9ab34)
+
 <h2>Hi there, I'm Fábio.👋</h2>
 
 <br>
