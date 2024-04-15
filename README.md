@@ -1,20 +1,12 @@
-<h1>Hi there, I'm Fábio. 👋</h1>
+<h2>Hi there, I'm Fábio.👋</h2>
 
 <br>
 
-- 🌎 I'm starting to make my career. (Eu estou começando a fazer minha carreira.)
-- 🌱 I’m currently learning/improving: C, PHP, Python, mySQL, JavaScript, HTML and CSS. (Atualmente, Eu estou aprendendo/aperfeiçoando: Python, JavaScript, HTML e CSS.)
-- 💼 If you've read this far, let's work together! (Se você leu até aqui, vamos trabalhar juntos!)
-  
-<br>
-
-<h2>Social Media. 🌐</h2>
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/falopinho)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/falopinho/)
-
-<br>
+- 🛠️ | Currently, I am working on improving my fullstack skills.
+- 🤝 | I am interested in collaborating on open-source projects.
+- 🍀 | don't worry to ask me anything. I am always happy to learn more.
+- 🏫 | Software Engineer 3/7 (studying)
+- 🌎 | English, Spanish, Portuguese
 
 <h2>Statistics. 📊</h2>
 
