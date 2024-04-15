@@ -2,11 +2,11 @@
 
 <br>
 
-- 🛠️ | Currently, I am working on improving my fullstack skills.
+- 🌌 | Currently, I am working on improving my fullstack skills.
 - 🤝 | I am interested in collaborating on open-source projects.
-- 🍀 | don't worry to ask me anything. I am always happy to learn more.
+- ✨ | don't worry to ask me anything. I am always happy to learn more.
 - 🏫 | Software Engineer 3/7 (studying)
-- 🌎 | English, Spanish, Portuguese
+- 💭 | English, Spanish, Portuguese
 
 <h2>Statistics. 📊</h2>
 
