@@ -11,15 +11,15 @@
 - 🏫 | Software Engineer 3/7 (studying)
 - 💭 | English, Spanish, Portuguese
 
-<h2>Statistics. 📊</h2>
+<h2>📊 - Statistics.</h2>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falopinho&layout=compact)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falopinho&show_icons=true&theme=white)
 
 <br>
 
-<h3 align="center">Technologies</h3>
-<div style="display: inline_block" align="center"><br>
+<h2>⚙ - Technologies.</h2>
+<div style="display: inline_block"><br>
   <img align="center" alt="Falops-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Falops-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Falops-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
