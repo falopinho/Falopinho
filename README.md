@@ -13,8 +13,10 @@
 
 <h2>📊 - Statistics.</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falopinho&layout=compact)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=falopinho&show_icons=true&theme=white)
+<div>  
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=falopinho&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=falopinho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <br>
 
